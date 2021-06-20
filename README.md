@@ -7,8 +7,6 @@ The goal is for bean convert to be a fully functioning file converter for some o
 Too many "free" sites want you to pay or create an account after using so many minutes of bandwith. With Bean Convert,
 you don't have to pay me or anyone anything becasue... OPEN SOURCE!
 
-Oh... Did I mention free lifetime updates too?
-
 ## SUPPORTED CONVERSIONS
 * PDF -----> DOCX
 
