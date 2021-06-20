@@ -1,4 +1,4 @@
-# beanconvert
+# Bean Convert
 A 100% Python Based File Converter
 
 Bean Convert is an open source Python based tool that converts many different files types.
@@ -9,26 +9,26 @@ you don't have to pay me or anyone anything becasue... OPEN SOURCE!
 
 Oh... Did I mention free lifetime updates too?
 
-SUPPORTED FILES:
--PDF
+## SUPPORTED CONVERSIONS
+* PDF -----> DOCX
 
-PROGRAM FEATURES:
--Automatic Detection of Supported File Types
--User Sets Save Location
--Current File View
--Progress Bar
+## PROGRAM FEATURES
+* Automatic Detection of Supported File Types
+* User Sets Save Location
+* Current File View
+* Progress Bar
 
-FUTURE FEATURES:
--Progress bar in Windows task bar.
--PDF Compressor
+## FUTURE FEATURES
+* Progress bar in Windows task bar.
+* PDF Compressor
 
-KNOWN BUGS/ISSUES:
--PDF Files Are Limited to No
+## KNOWN BUGS/ISSUES
+* PDF Files Are Limited to No
 
-REQUIRED EXTERNAL PROGRAMS:
-None :)
+## REQUIRED EXTERNAL PROGRAMS
+* None :)
 
-VERSION HISTORY:
+## VERSION HISTORY
 
-1.00 - 6/20/21
-The first release of this program.
+### 1.00 - 6/20/21
+* The first release of this program.
