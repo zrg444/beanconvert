@@ -19,6 +19,7 @@ you don't have to pay me or anyone anything because... OPEN SOURCE!
 ## FUTURE FEATURES
 * Progress bar in Windows task bar.
 * PDF Compressor
+* Support for DOCX to PDF, DOC to DOCX, and audio, video, and photo formats.
 
 ## KNOWN BUGS/ISSUES
 * PDF Files Over 20 MB are compresed, yet do not always convert.
